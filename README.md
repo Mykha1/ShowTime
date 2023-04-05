@@ -1,2 +1,0 @@
-# ShowTime
-Ukazkove Projekty
